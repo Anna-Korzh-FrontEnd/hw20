@@ -29,7 +29,7 @@ let object = {
 
 
 
-module.exports.object = object
+module.exports = object
 
 
 
